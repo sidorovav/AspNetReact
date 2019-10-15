@@ -139,6 +139,7 @@
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="package.json" />
     <Content Include=".babelrc" />
+    <Content Include="Scripts\dist\Home\react\bundle.js" />
     <Content Include="Scripts\Home\react\index.js" />
     <Content Include="webpack.config.js" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
